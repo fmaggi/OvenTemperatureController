@@ -15,4 +15,4 @@ You can
  - Edit the PID coefficients
  - Start the oven and monitor it
 
- For instructions on how to build it see the [app readme](software/README.md)
+ For instructions on how to build it see the [app readme](https://github.com/fmaggi/OvenOneController/blob/main/README.md)
