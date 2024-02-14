@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:fmaggi/TempControl.git
+[submodule "software"]
+	path = software
+	url = git@github.com:fmaggi/OvenOneController.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:fmaggi/TempControl-hw.git
